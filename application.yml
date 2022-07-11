@@ -1,0 +1,11 @@
+topics:
+ account:
+   add: addAcount
+   delete: deleteAccount
+   changeStatus: changeStattusAccount
+   changeName: changeNameAccount
+ category:  
+   add: addCategory
+   delete: deleteCategory
+   changeStatus: changeStattusCategory
+   changeName: changeNameCategory
